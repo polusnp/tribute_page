@@ -1,2 +1,2 @@
-# study a simple tribute_page project
+#study simple tribute page
 HTML/CSS
